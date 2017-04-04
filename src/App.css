@@ -1,0 +1,18 @@
+.gif-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.gif {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-basis: 30%;
+	flex-grow: 1;
+	font-size: 0;
+	margin: 16px;
+	padding: 16px;
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+}
