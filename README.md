@@ -6,6 +6,6 @@
 - Add a loading state
 - Add a load more button
 
-## This test uses:
+## This repo uses:
 - For CSS: [bulma.io](http://bulma.io)
 - The giphy API [docs](https://github.com/Giphy/GiphyAPI#search-endpoint)
