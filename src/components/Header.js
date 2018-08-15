@@ -8,7 +8,7 @@ const Header = (props) => {
           <nav className="nav">
             <div className="nav-left">
               <div className="nav-item">
-                CrowdRiff Code Challenge
+                Build Your Own Gif
               </div>
             </div>
           </nav>

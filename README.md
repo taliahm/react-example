@@ -1,15 +1,3 @@
-# Stork
-
-## CrowdRiff's Babby Dev Code challenge
-
-### Install
-- clone this directory
-- cd stork
-- npm install
-
-### Two steps:
-- Take a look at the project, poke around
-- Add Some Cool Stuff to it, you decide what!
 
 ### Some options
 - Add a feature to favourite gifs
